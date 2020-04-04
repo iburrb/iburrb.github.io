@@ -1,28 +1,24 @@
-title: Jim Myhrberg (jimeh)
-description: Software Engineering Mercenary
+title: Irmantas Burba
+description: Mechanical Engineer / CAE Consultant
 author:
-  name: Jim Myhrberg
-  nickname: jimeh
-  twitter: jimeh
-hostname: jimeh.me # used to determine if google analytics should be triggered
-url: https://jimeh.me # the base hostname & protocol for your site
+  name: Irmantas Burba
+  nickname: iburrb
+  twitter: iburba
+hostname:  # used to determine if google analytics should be triggered
+url:  # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:title/
 
 # stuff for jekyll-seo-tag
 social:
-  name: Jim Myhrberg
+  name: Irmantas Burba
   links:
-    - https://twitter.com/jimeh
-    - https://github.com/jimeh
-    - https://jimeh.io/
-    - http://www.linkedin.com/in/jimeh
-    - http://www.last.fm/user/jimeh
-    - https://flickr.com/photos/jimeh/
-    - https://keybase.io/jimeh
+    - https://twitter.com/iburba
+    - https://github.com/iburrb
+    - https://es.linkedin.com/in/irmantas-burba-3112a64a
 
 twitter:
-  username: jimeh
+  username: iburba
 
 # main page content
 email:
@@ -31,33 +27,33 @@ email:
 
 links:
   - name: github
-    url: https://github.com/jimeh
+    url: https://github.com/iburrb
     class: fab fa-github
   - name: twitter
-    url: https://twitter.com/jimeh
+    url: https://twitter.com/iburba
     class: fab fa-twitter
-  - name: blog
-    url: https://jimeh.io/
-    class: far fa-newspaper
+#  - name: blog
+#    url: https://jimeh.io/
+#    class: far fa-newspaper
   - name: linkedin
-    url: https://www.linkedin.com/in/jimeh
+    url: https://es.linkedin.com/in/irmantas-burba-3112a64a
     class: fab fa-linkedin-in
-  - name: last.fm
-    url: https://www.last.fm/user/jimeh
-    class: fab fa-lastfm
-  - name: flickr
-    url: https://flickr.com/photos/jimeh
-    class: fab fa-flickr
-  - name: vcard
-    id: vcard
-    type: download
-    url: https://assets.jimeh.me/jim-myhrberg.vcf
-    class: far fa-address-card
-  - name: cv (pdf)
-    id: resume
-    type: download
-    url: https://assets.jimeh.me/jim-myhrberg-cv-5.0.0.pdf
-    class: fas fa-file-alt
+#  - name: last.fm
+#    url: https://www.last.fm/user/jimeh
+#    class: fab fa-lastfm
+#  - name: flickr
+#    url: https://flickr.com/photos/jimeh
+#    class: fab fa-flickr
+#  - name: vcard
+#    id: vcard
+#    type: download
+#    url: https://assets.jimeh.me/jim-myhrberg.vcf
+#    class: far fa-address-card
+#  - name: cv (pdf)
+#    id: resume
+#    type: download
+#    url: https://assets.jimeh.me/jim-myhrberg-cv-5.0.0.pdf
+#    class: fas fa-file-alt
 
 # additional stuff
 exclude:
