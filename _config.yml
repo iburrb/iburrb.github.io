@@ -49,11 +49,11 @@ links:
 #    type: download
 #    url: https://assets.jimeh.me/jim-myhrberg.vcf
 #    class: far fa-address-card
-#  - name: cv (pdf)
-#    id: resume
-#    type: download
-#    url: https://assets.jimeh.me/jim-myhrberg-cv-5.0.0.pdf
-#    class: fas fa-file-alt
+  - name: cv (pdf)
+    id: resume
+    type: download
+    url: https://drive.google.com/file/d/1WV-NoRvjQk7T8ni-XNGFgg4N3pllpgdd/view?usp=sharing
+    class: fas fa-file-alt
 
 # additional stuff
 exclude:
